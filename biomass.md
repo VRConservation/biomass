@@ -33,21 +33,25 @@ exports:
 ## Wolf's False Claims
 
 ### Energy Generation Claims
+
 - Assertion that biomass isn't viable baseload power
 - Misrepresentation of efficiency data
 - Ignoring technological improvements
 
 ### Wildfire Prevention Claims
+
 - Claim that biomass harvesting doesn't reduce fire risk
 - Cherry-picked fire statistics
 - Ignoring forest fuel reduction studies
 
 ### Economic Arguments
+
 - Cost estimates without accounting for co-benefits
 - Overlooking job creation and rural economic benefits
 - Ignoring carbon sequestration value
 
 ## Missing Context in Wolf's Analysis
+
 - Lack of discussion on forest health alternatives
 - Selective citation of studies
 - Failure to address California's energy challenges
@@ -55,21 +59,25 @@ exports:
 # Forest health
 
 ## Current Forest Conditions
+
 - California's excessive fuel loads
 - Historic suppression impacts on forest structure
 - Wildfire risk and ecosystem health decline
 
 ## Active Management Benefits
+
 - Thinning operations and biomass removal
 - Restoration of natural fire regimes
 - Wildlife habitat improvement
 
 ## Biomass Harvesting Role
+
 - Economically viable fuel reduction
 - Carbon accounting and sequestration
 - Removal of low-value woody material
 
 ## Peer-Reviewed Evidence
+
 - Forest health research supporting active management
 - Fire ecology studies on biomass removal
 - Long-term forest resilience data
@@ -77,26 +85,31 @@ exports:
 # Solutions
 
 ## Comprehensive Forest Management
+
 - Integrated thinning and biomass harvesting
 - Prescribed burns and fuels management
 - Restoration prioritization by risk zone
 
 ## Biomass Energy Development
+
 - Current facility capacity and potential expansion
 - Technology improvements and efficiency gains
 - Co-location with forest management activities
 
 ## Economic Framework
+
 - Sustainable funding mechanisms
 - Rural community investment
 - Job creation and workforce development
 
 ## Policy Recommendations
+
 - Support for biomass energy infrastructure
 - Incentives for forest restoration projects
 - Long-term commitment to active management
 
 ## Integration with Climate Goals
+
 - Carbon neutral and carbon negative pathways
 - Renewable energy targets
 - Meeting California's climate commitments
