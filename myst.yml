@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: f6caea8a-bf51-4bc6-a5d4-4bc470673414
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    favicon: favicon.ico
+    logo: logo.png
+  nav:
+    - title: Geospatial
+      url: https://3point.xyz/geosp
+    - title: Confi
+      url: https://3point.xyz/confi
+    - title: FBA guide
+      url: https://3point.xyz/fba-guide
