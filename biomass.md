@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, BIOMAT, forest health, climate
 abstract: |
-  Shaye Wolf's commentary in calmatters.org contains a number of half-truths, biased evidence, and cherry picked science to prove her point that biomass is a money pit that won't solve California's energy or wildfire problems.
+  Shaye Wolf's commentary in calmatters.org contains a number of half-truths, biased evidence, and cherry picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. The following debunks or clarifies that misinformation with cited articles and data along with FAQs about biomass and forest health.
 exports:
   - format: docx
     template: curvenote
@@ -20,100 +20,29 @@ exports:
     article_type: Report
 ---
 
+Misinformation piece from Sonoma
+
 # Takeaways
-
-- Biomass energy is essential for California's energy independence and climate goals
-- Forest health and wildfire risk reduction require active management, including biomass harvesting
-- Biomass facilities provide economic stimulus and job creation in rural communities
+- Biomass energy is essential for an alternative to hydropower and gas as well as helping to create energy independence in rural areas where power blackouts are increasingly frequent.
+- Forest health and wildfire risk reduction require active management that produces biomass. That biomass cannot be scattered in the forest or left in piles (moves the fire risk from one place to another)
 - Wolf's article relies on selective evidence and ignores peer-reviewed research
-- Biomass is part of a comprehensive solution, not a silver bullet
+- Biomass is one part of a comprehensive solution, not a silver bullet. Biomass utilization cannot solve energy or wildfire problems on its own, must be in tandem with mutliple, integrated solutions. Cite Levin and Frisch articles. 
+- BIOMAT is a needed program
+- Lacks nuance 
+- Thinning does not cause dried out forests
+- More money spent on infrastructure that processes wood from ecological thinning projects, and Martin's claim that too much is spent on thinning and Rx fire w/o addressing the biomass from these projects.
 
-# Debunking
+# Biomass is not a silver bullet
 
-## Wolf's False Claims
-
-### Energy Generation Claims
-
-- Assertion that biomass isn't viable baseload power
-- Misrepresentation of efficiency data
-- Ignoring technological improvements
-
-### Wildfire Prevention Claims
-
-- Claim that biomass harvesting doesn't reduce fire risk
-- Cherry-picked fire statistics
-- Ignoring forest fuel reduction studies
-
-### Economic Arguments
-
-- Cost estimates without accounting for co-benefits
-- Overlooking job creation and rural economic benefits
-- Ignoring carbon sequestration value
-
-## Missing Context in Wolf's Analysis
-
-- Lack of discussion on forest health alternatives
-- Selective citation of studies
-- Failure to address California's energy challenges
-
-# Forest health
-
-## Current Forest Conditions
-
-- California's excessive fuel loads
-- Historic suppression impacts on forest structure
-- Wildfire risk and ecosystem health decline
-
-## Active Management Benefits
-
-- Thinning operations and biomass removal
-- Restoration of natural fire regimes
-- Wildlife habitat improvement
-
-## Biomass Harvesting Role
-
-- Economically viable fuel reduction
-- Carbon accounting and sequestration
-- Removal of low-value woody material
-
-## Peer-Reviewed Evidence
-
-- Forest health research supporting active management
-- Fire ecology studies on biomass removal
-- Long-term forest resilience data
+# FAQs
 
 # Solutions
+Ms. Wolf did get two things right in her op-ed: prioritize thinning in the wildland urban interface and limit development in fire prone areas.These solutions, however, fail to recognize the current problem of too much biomass in forests now due to a century of fire suppression. Removing many small diameter trees followed by prescribed fire will not only reduce wildfire risk in priority areas (note Caldor fire burn deflected by Caples Lake prescribed fire) it will reduce excessive competition causing chronic stress across forest stands reducing disease, insect invasions, allowing large trees to grow larger, and making forest stands more resilient (https://doi.org/10.1016/j.foreco.2021.120004).
 
-## Comprehensive Forest Management
 
-- Integrated thinning and biomass harvesting
-- Prescribed burns and fuels management
-- Restoration prioritization by risk zone
-
-## Biomass Energy Development
-
-- Current facility capacity and potential expansion
-- Technology improvements and efficiency gains
-- Co-location with forest management activities
-
-## Economic Framework
-
-- Sustainable funding mechanisms
-- Rural community investment
-- Job creation and workforce development
-
-## Policy Recommendations
-
-- Support for biomass energy infrastructure
-- Incentives for forest restoration projects
-- Long-term commitment to active management
-
-## Integration with Climate Goals
-
-- Carbon neutral and carbon negative pathways
-- Renewable energy targets
-- Meeting California's climate commitments
+1. Integration with climate change goals
+2. Temporary, not a massive feed the beast solution. Roundup analogy or the biomass firm from UK analogy
+3. Pro-active disaster insurance
 
 # Author
-
-[Author bio and credentials to be added]
+Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. He is a conservation consultant, principal and owner of 3point.xyz where he works for various non-profit, state/federal agencies, and private businesses. Vance is the former Board Chair of Groundswell International, is a trustee for the South Downs National Park Trust, and serves on the Rewilding Leadership Council for the Rewilding Institute. Vance received his M.S. degree in Forest Science and Natural Resources Management from Cornell University and a B.A. in Biology from the College of Wooster.
