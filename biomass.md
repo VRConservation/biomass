@@ -1,7 +1,7 @@
 ---
 title: Forest Biomass Solutions
 subject: Biomass
-subtitle: Debunking Shaye Wolf's unscientific biomass article
+subtitle: Debunking Shaye Wolf's biomass oped
 short_title: Biomass & forests
 date: 2026-01-10
 authors:
@@ -20,6 +20,7 @@ exports:
     article_type: Report
 ---
 
+Remove all references to Wolf
 Misinformation piece from Sonoma
 
 # Takeaways
@@ -34,6 +35,7 @@ Misinformation piece from Sonoma
 
 # Biomass is not a silver bullet
 
+
 # FAQs
 
 # Solutions
@@ -43,6 +45,8 @@ Ms. Wolf did get two things right in her op-ed: prioritize thinning in the wildl
 1. Integration with climate change goals
 2. Temporary, not a massive feed the beast solution. Roundup analogy or the biomass firm from UK analogy
 3. Pro-active disaster insurance
+4. Economics
+5. Biodiversity. Funnily enough biodiversity is never mentioned in Wolf's article despite the name of her organization. 
 
 # Author
 Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. He is a conservation consultant, principal and owner of 3point.xyz where he works for various non-profit, state/federal agencies, and private businesses. Vance is the former Board Chair of Groundswell International, is a trustee for the South Downs National Park Trust, and serves on the Rewilding Leadership Council for the Rewilding Institute. Vance received his M.S. degree in Forest Science and Natural Resources Management from Cornell University and a B.A. in Biology from the College of Wooster.
