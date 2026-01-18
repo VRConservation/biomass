@@ -3,12 +3,15 @@ title: Forest Biomass Solutions
 subject: Biomass
 subtitle: Debunking Shaye Wolf's biomass oped
 short_title: Biomass & forests
-date: 2026-01-10
+date: 2026-01-20
 authors:
   - name: Vance Russell
     affiliations:
       - 3point.xyz
     email: vance@3point.xyz
+  - name: Joshua Harrison
+    affiliations:
+      - Center for the Study of Force Majeure, UC Santa Cruz  
 license: CC-BY-4.0
 keywords: biomass, BIOMAT, forest health, climate
 abstract: |
@@ -58,9 +61,12 @@ Ms. Wolf did get two things right in her op-ed: prioritize thinning in the wildl
 
 1. **Climate change and biomass**. Integration with climate change goals. Create policy that connect biomass facilities to climate change goals and greenhouse gas reduction.
 2. **Mobile modular technology**. Processing biomass is a tempoary solution to the amount of biomass built up over a century of fire suppression. Creating biomass infrastructure should not create a feed the beast situation as has happened in the Southeast US or parts of Europe. Rather, processing biomass in places of need, may be needed over time to not just prioritize utilization locally but also transport of biomass and products from utilization of that biomass.
-3. **Pro-active disaster insurance**. Add in Josh article citations.
+3. **Pro-active disaster insurance**. Connect this to biomass. Add in Josh article citations.
 4. **Jobs in the woods**. Biomass production and processing can create valuable jobs in the woods in rural, often disadvantaged communities that are threatened by wildfire and also experiencing a constant state of brain drain and loss of capacity due to residents leaving to look for jobs elsewhere (when jobs don't exist in their communities). Creating whole system stewards could be a component of this job creation process.
-5. **Biodiversity**. 
+5. **Biodiversity**. Biodiversity isn't a solution to biomass utilization, per se, but it should be included in every conversation about forest health, e.g., what is the impact on biodiversity of thinning, prescribed fire, biomass utilization. Taking all the snags out of forest to reduce fire risk is going to have a negative impact on biodiversity. Indiscriminate thinning instead of creating gaps and clumps and ecological based forest management will reduce biodiversity and may not even work to create resilient forest health stands.
 
-# Author
-Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. He is a conservation consultant, principal and owner of 3point.xyz where he works for various non-profit, state/federal agencies, and private businesses. Vance is the former Board Chair of Groundswell International, is a trustee for the South Downs National Park Trust, and serves on the Rewilding Leadership Council for the Rewilding Institute. Vance received his M.S. degree in Forest Science and Natural Resources Management from Cornell University and a B.A. in Biology from the College of Wooster.
+# Authors
+**Vance Russell** has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. He is a conservation consultant, principal and owner of 3point.xyz where he works for various non-profit, state/federal agencies, and private businesses. Vance is the former Board Chair of Groundswell International, is a trustee for the South Downs National Park Trust, and serves on the Rewilding Leadership Council for the Rewilding Institute. Vance received his M.S. degree in Forest Science and Natural Resources Management from Cornell University and a B.A. in Biology from the College of Wooster.
+<br>
+
+**Joshua Harrison**. Placeholder: Directs the Center for the Study of the Force Majeure at UC Santa Cruz. I have over 30 years of experience bridging art, science & ecology and social policy.
