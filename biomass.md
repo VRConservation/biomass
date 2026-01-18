@@ -13,14 +13,16 @@ license: CC-BY-4.0
 keywords: biomass, BIOMAT, forest health, climate
 abstract: |
   Shaye Wolf's [calmatters.org commentary](https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/) about biomass contains a number of half-truths, biased evidence, and cherry picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. The following debunks or clarifies that misinformation with cited articles and data along with FAQs about biomass and forest health.
+exports:
+  - format: md
 ---
 
 ([Barker et al. 2024](https://doi.org/10.3389/ffgc.2024.1496190))
 
 # Takeaways
-- Biomass utilziation is downstream of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between sawtimber
+- Biomass utilziation is downstream of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber; 2. unavoidable treatment residues; and 3. 'waste' streasms that exist whether or not there's an energy market.
 
-I’d consider drawing a clean line between (a) sawtimber, (b) unavoidable treatment residues, and (c) waste streams that exist whether or not there’s an energy market. That helps defuse the “biomass incentivizes cutting” trope early and clearly.
+
 
 - Wildfire disinformation is not useful to solving the wildfire crisis in the western United States. What is needed is multiple solutions, of which biomass utiization is a part (not the silver bullet).
 - Forest health and wildfire risk reduction require active management that produces biomass. That biomass cannot be scattered in the forest or left in piles (moves the fire risk from one place to another)
@@ -40,7 +42,9 @@ Quite possibly the biggest miss of the calmatters article is not acknowledging t
 ## Biodiversity
 Curiously, despite the author's organizational mission, biodiversity wasn't mentioned at all in the opinion piece. For instance, it is well known the indigenous burning as a part of historic fire regimes enhanced biodiversity ([Hoffman et al. 2021](https://doi.org/10.1073/pnas.2105073118)). Measuring the impact of thinning, prescribed fire, and other forest health projects should feature for any publicly funded projects. The science advisory panel of the Wildfire Task Force has done a superb job ensuring biodiversity and listed species data is available for all regions in the state, but more can be done to measure project impacts on vulnerable or threatened species and overall impacts on species over time. There is some evidence that a combination of thinning and prescribed fire significantly increases plant diversity in mixed or dry conifer forest ([Dodson et al. 2008](https://doi.org/10.1016/j.foreco.2008.01.026)). However, California is very diverse and what works in one ecosystem, may not in others, especially chaparral or mesic systems, where burn frequency is generally too high and thinning or prescribed fires do not apply as a treatment.
 
-# Biomass
+# Biomass (MOVE THIS SECTION UP FRONT)
+Biomass utilziation is downstream of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber; 2. unavoidable treatment residues; and 3. 'waste' streasms that exist whether or not there's an energy market.
+
 In addition to wildfire and climate disinformation, there are a number of recurring themes touted by some environmentalists that deserve debunking and nuance.
 
 1. **Feeding the beast**. A fear of biomass utilization opponents is feeding plants from pristine forests to support biomass industry with dubious climate benefits, e.g., similar to North Carolina or Europe ([Frisch and Uden 2023](https://calmatters.org/commentary/2022/11/wildfire-prevention-biomass-climate-forest)). However as the same authors argue, the situation is much different in the Amnerican West where biomass is a result of wildfire mitigation treatments and 90% of forest lands are owned by the public and smaall-scale landowners.
