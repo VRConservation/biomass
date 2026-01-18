@@ -14,17 +14,15 @@ keywords: biomass, BIOMAT, forest health, climate
 abstract: |
   Shaye Wolf's [calmatters.org commentary](https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/) about biomass contains a number of half-truths, biased evidence, and cherry picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. The following debunks or clarifies that misinformation with cited articles and data along with FAQs about biomass and forest health.
 ---
-:::{image} sierra.png
-:alt: Sierra forest
-:width: 700px
-:align: center
-:::
-
 
 ([Barker et al. 2024](https://doi.org/10.3389/ffgc.2024.1496190))
 
 # Takeaways
-- Wildfire disinformation is not useful to solving the wildfire crisis in the western United States. What is needed is multliple solutions, of which biomass utiization is a part (not the silver bullet).
+- Biomass utilziation is downstream of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between sawtimber
+
+I’d consider drawing a clean line between (a) sawtimber, (b) unavoidable treatment residues, and (c) waste streams that exist whether or not there’s an energy market. That helps defuse the “biomass incentivizes cutting” trope early and clearly.
+
+- Wildfire disinformation is not useful to solving the wildfire crisis in the western United States. What is needed is multiple solutions, of which biomass utiization is a part (not the silver bullet).
 - Forest health and wildfire risk reduction require active management that produces biomass. That biomass cannot be scattered in the forest or left in piles (moves the fire risk from one place to another)
 - More investment in local economies to sustainably process wood from thinning projects is needed to help solve the wildfire problem.
 - Policies that focus on reducing emissions from biomass while integrating forest health solutions with climate change are critical to the long-term biodversity and human health throughout California and the west.
