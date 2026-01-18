@@ -15,57 +15,34 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, BIOMAT, forest health, climate
 abstract: |
-  Shaye Wolf's CalMatters [commentary](https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/) about biomass contains a number of half-truths, biased evidence, and cherry-picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. This counterpoint article debunks or clarifies that misinformation with cited articles and data, along with FAQs about biomass and forest health. In short, the issue is really about more than biomass and whether active forest management is ecologically legitmate under novel climate conditions.
+  Shaye Wolf's [calmatters.org commentary](https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/) about biomass contains a number of half-truths, biased evidence, and cherry-picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. The following debunks or clarifies that misinformation with cited articles and data, along with FAQs about biomass and forest health.
 exports:
   - format: md
 ---
 
-# Background
-In December Shaye Wolf of the Center for Biological Diversity wrote a commentary in CalMatters claiming biomass is a money pit that won't solve California's energy or wildfire problems. The article made a number of claims, cited some research from authors that have been discredited or their claims against forest health and biomass debunked by a majority of climate and forest scientists, and made other claims that were neither cited nor true. Shortly afterwards, Matt Dias of California Forestry Association wrote a very brief response on biomass utilization is not focused on renewable energy production, rather the real issue is confronting the wildfire crisis. So we have a point made from an environmental group, and a response from industry. This article is focused on 
+([Barker et al. 2024](https://doi.org/10.3389/ffgc.2024.1496190))
 
 # Takeaways
-- Bottom line: This isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. We believe ecological forest management that follows guidelines outlined in GTR-220 coupled with prescribed fire maintenance will create more resilient forests and reduce fire risks [@north220].
 - Biomass utilization is a downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber; 2. unavoidable treatment residues; and 3. 'waste' streams that exist whether or not there's an energy market.
+
 
 
 - Wildfire disinformation is not useful for solving the wildfire crisis in the western United States. What is needed is multiple solutions, of which biomass utilization is a part (not the silver bullet).
 - Forest health and wildfire risk reduction require active management that produces biomass. That biomass cannot be scattered in the forest or left in piles (moves the fire risk from one place to another)
-- Increased investment in local communities to sustainably process wood from thinning projects is needed to help solve the wildfire problem and strengthen rural economies.
+- More investment in local economies to sustainably process wood from thinning projects is needed to help solve the wildfire problem.
 - Policies that focus on reducing emissions from biomass while integrating forest health solutions with climate change are critical to the long-term biodiversity and human health throughout California and the West.
 - Biodiversity does matter for forest health and conservation.
 
-# Biomass
+# Biomass (MOVE THIS SECTION UP FRONT)
+Biomass utilization is downstream of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber; 2. unavoidable treatment residues; and 3. 'waste' streams that exist whether or not there's an energy market.
 
-
-## THE disagreement
-Finally, it might strengthen the piece to name the deeper disagreement directly. This isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. CBD’s position implicitly says restraint and retreat are the answer; yours says intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
-
-## Waste streams
-Biomass utilization is a crtical downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber; 2. unavoidable treatment residues; and 3. 'waste' streams that exist whether or not there's an energy market. We also need to make it clear that sawtimber, clearcutting, or excessive forest harvesting cannot be conflated with forest health or wildfire mitigation.
-
-## Burning & air quality
-public health and air quality angle deserves a bit more attention than it currently gets. CBD gains moral leverage by focusing on localized pollution, and while I agree that wildfire smoke dwarfs regulated point sources, that comparison needs to be made explicitly. It would help to acknowledge that older biomass plants were dirty, then draw a clear distinction with modern controls and siting, and finally compare those impacts to pile burns and wildfire smoke, which are largely unregulated and episodic but massively more harmful.
-
-## Energy vs. material flow
-separating “biomass as energy” from “biomass as material flow management.” CBD collapses everything into burning trees for electricity. You’re implicitly arguing something broader: managing unavoidable residues across multiple uses (CHP, heat, biochar, materials) as part of landscape risk reduction. Making that explicit reframes the debate away from clean-energy purity tests and toward systems design.
-
-## Economics
-economic argument would benefit from even a small amount of quantitative grounding. You’re right that utilization can make treatments viable and support rural capacity, but right now it reads as intuitive rather than demonstrated. Even rough figures comparing treatment costs with and without utilization, or BioMAT costs relative to suppression and disaster spending, would go a long way toward neutralizing the “subsidy boondoggle” critique.
-
-
-:::{caution} BIOMASS MYTHS 🦄
-:class: dropdown
 In addition to wildfire and climate disinformation, there are several recurring themes touted by some environmentalists that deserve debunking and nuance.
 
-1. **Downstream process**. Wolf mentions leaving thinned biomass in place rather than using it as biomass. However, this practice has led to suppression of important undergrowth and, in worst-case scenarios, started or exacerbated some of the largest fires in California's history. For example, it's widely acknowledged that the Dixie Fire, which burned more than 1 million acres across the Plumas National Forest, was spread by a log deck and by thinned fuel piles left in place after thinning operations.
-2. **Carbon accounting**. CBD’s argument leans heavily on short-term smokestack emissions, and while that framing is incomplete, it isrhetorically effective. I’d suggest acknowledging up front that biomass is not zero-carbon, then pivot to the real comparison: time horizons and counterfactuals. In fire-prone forests, the alternative to utilization is often pile burning or high-severity wildfire, both of which release carbon rapidly and without substitution benefits. Naming the time dimension and the counterfactual explicitly makes it harder to accuse you of hand-waving.
-3. **Feeding the beast**. A fear among opponents of biomass utilization is that feeding plants from pristine forests to support the biomass industry with dubious climate benefits, e.g., as in North Carolina or Europe ([Frisch and Uden 2023](https://calmatters.org/commentary/2022/11/wildfire-prevention-biomass-climate-forest)). However, as the same authors argue, the situation is very different in the American West, where biomass results from wildfire mitigation treatments and 90% of forest land is owned by the public and small-scale landowners.
-4. **Biomass is an energy silver bullet**. Biomass energy will not replace renewable energy sources such as solar and wind. It is meant to be a local utilization process that is far superior to and less polluting than letting forests burn. The real issue at hand is addressing California's wildfire emergency and not biomass vs. other renewables ([Dias 2025](https://calmatters.org/commentary/reader-reactions/2025/12/hazardous-forest-waste-wildfire-california/)).
-5. **Policy-based incentives**. The Bioenergy Market Adjusting Tariff Program (BIOMAT), which the CPUC sadly decided not to renew, required utilities to buy power from small local projects that convert forest and other organic waste to energy. Creating a successor program that could get facilities across the line to function or re-idle facilities like Loyalton that aren't currently operating is critical to processing biomass from forest health projects.
-:::
-
-REMOVE
+1. **Feeding the beast**. A fear among opponents of biomass utilization is that feeding plants from pristine forests to support the biomass industry with dubious climate benefits, e.g., as in North Carolina or Europe ([Frisch and Uden 2023](https://calmatters.org/commentary/2022/11/wildfire-prevention-biomass-climate-forest)). However, as the same authors argue, the situation is very different in the American West, where biomass results from wildfire mitigation treatments and 90% of forest land is owned by the public and small-scale landowners.
+2. **Biomass is not an energy silver bullet**. Biomass energy will not replace renewable energy sources such as solar and wind. It is meant to be a local utilization process that is far superior to and less polluting than letting forests burn. The real issue at hand is addressing California's wildfire emergency and not biomass vs. other renewables ([Dias 2025](https://calmatters.org/commentary/reader-reactions/2025/12/hazardous-forest-waste-wildfire-california/)).
+3. **Leave in place**. Wolf mentions leaving thinned biomass in place rather than using it as biomass. However, this practice has led to suppression of important undergrowth and, in worst-case scenarios, started or exacerbated some of the largest fires in California's history. For example, it's widely acknowledged that the Dixie Fire, which burned more than 1 million acres across the Plumas National Forest, was spread by a log deck and by thinned fuel piles left in place after thinning operations.
 4. **Temporary**. Biomass utilization is a temporary strategy to reduce wildfire risk. This does beg the question of what to do with the infrastructure once it is in place, but we are currently catching up from infrastructure reduction, some of it warranted, following the timber wars of the 1980s. Perhaps incorporating mobility and scalability into operations so they can go to where the utilization problems exist, rather than building permanent processing facilities, is one solution.
+5. **BIOMAT successor**. The Bioenergy Market Adjusting Tariff Program (BIOMAT), which the CPUC sadly decided not to renew, required utilities to buy power from small local projects that convert forest and other organic waste to energy. Creating a successor program that could get facilities across the line to function or re-idle facilities like Loyalton that aren't currently operating is critical to processing biomass from forest health projects.
 
 # Wildfire disinformation
 Similar to climate misinformation, untruths about wildfire, forests, and logging have multiplied in the media, political discourse, and across organizations ([Jones et al. 2022](https://doi.org/10.1002/fee.2553)). Likewise, overexposure of wildfire and biomass contrarians in the media to give 'balanced' views can result in public confusion and weakened support for interventions as well as undermine scientific consensus ([Cook 2020](https://doi.org/10.4337/9781789900408.00014)). A perfect example from the CalMatters article is the claim that 'Most of California's destructive wildfires...have burned in shrublands and grasslands...' The citation is for a study that concludes that destructive wildfires in the continental US have occurred mostly in these habitats. In reality, the most destructive California wildfires have taken place in forests and shrublands.

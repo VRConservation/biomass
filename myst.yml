@@ -11,10 +11,14 @@ project:
   open_access: true
   date: 2026-01-15
   authors: 
-    - name: Vance Russell, 3point.xyz
-      affiliation: 3point.xyz
+    - name: Vance Russell
+      affiliations:
+        - 3point.xyz
       email: vance@3point.xyz
       url: https://3point.xyz
+    - name: Joshua Harrison
+      affiliations:
+        - Center for the Study of Force Majeure, UC Santa Cruz
   github: https://github.com/VRConservation/biomass
   banner: sierra.png
   # To autogenerate a Table of Contents, run "myst init --write-toc"
