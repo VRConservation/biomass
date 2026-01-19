@@ -38,7 +38,7 @@ In December Shaye Wolf of the Center for Biological Diversity wrote a commentary
 
 
 ## THE disagreement
-Finally, it might strengthen the piece to name the deeper disagreement directly. This isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. CBD’s position implicitly says restraint and retreat are the answer; yours says intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
+The debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. CBD’s position implicitly says restraint and retreat are the answer; yours says intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
 
 ## Waste streams
 Biomass utilization is a crtical downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber; 2. unavoidable treatment residues; and 3. 'waste' streams that exist whether or not there's an energy market. We also need to make it clear that sawtimber, clearcutting, or excessive forest harvesting cannot be conflated with forest health or wildfire mitigation.
@@ -50,7 +50,14 @@ public health and air quality angle deserves a bit more attention than it curren
 separating “biomass as energy” from “biomass as material flow management.” CBD collapses everything into burning trees for electricity. You’re implicitly arguing something broader: managing unavoidable residues across multiple uses (CHP, heat, biochar, materials) as part of landscape risk reduction. Making that explicit reframes the debate away from clean-energy purity tests and toward systems design.
 
 ## Economics
-economic argument would benefit from even a small amount of quantitative grounding. You’re right that utilization can make treatments viable and support rural capacity, but right now it reads as intuitive rather than demonstrated. Even rough figures comparing treatment costs with and without utilization, or BioMAT costs relative to suppression and disaster spending, would go a long way toward neutralizing the “subsidy boondoggle” critique.
+Increased forest management, through the use of either hand/mechanical treatments or prescribed fire, can reduce fire suppression costs relative to recent practices by more than US$400,000 per year [@holland].
+
+{numref}`costs` shows the cost benefits of treatments [@patrick]
+
+:::{figure} /cost-bens.png
+:label: costs
+Costs/benefits of California fuel reduction at the goal of 1 million acres vs. 3.9 million acres—the rate that maximizes net benefits.
+:::
 
 
 :::{caution} BIOMASS MYTHS 🦄
@@ -64,9 +71,6 @@ In addition to wildfire and climate disinformation, there are several recurring 
 5. **Policy-based incentives**. The Bioenergy Market Adjusting Tariff Program (BIOMAT), which the CPUC sadly decided not to renew, required utilities to buy power from small local projects that convert forest and other organic waste to energy. Creating a successor program that could get facilities across the line to function or re-idle facilities like Loyalton that aren't currently operating is critical to processing biomass from forest health projects.
 :::
 
-REMOVE
-4. **Temporary**. Biomass utilization is a temporary strategy to reduce wildfire risk. This does beg the question of what to do with the infrastructure once it is in place, but we are currently catching up from infrastructure reduction, some of it warranted, following the timber wars of the 1980s. Perhaps incorporating mobility and scalability into operations so they can go to where the utilization problems exist, rather than building permanent processing facilities, is one solution.
-
 # Wildfire disinformation
 Similar to climate misinformation, untruths about wildfire, forests, and logging have multiplied in the media, political discourse, and across organizations [@jones]. Likewise, overexposure of wildfire and biomass contrarians in the media to give 'balanced' views can result in public confusion and weakened support for interventions as well as undermine scientific consensus [@cook]. A perfect example from the CalMatters article is the claim that 'Most of California's destructive wildfires...have burned in shrublands and grasslands...' The citation is for a study that concludes that destructive wildfires in the continental US have occurred mostly in these habitats. In reality, the most destructive California wildfires have taken place in forests and shrublands.
 
@@ -78,6 +82,11 @@ Quite possibly the biggest miss of the Calmatter's article is not acknowledging 
 
 ## Biodiversity
 Curiously, despite the author's organizational mission, biodiversity wasn't mentioned at all in the opinion piece. For instance, it is well known that the indigenous burning as a part of historic fire regimes enhanced biodiversity [@hoffman]. Measuring the impact of thinning, prescribed fire, and other forest health projects should be a feature of any publicly funded projects. The science advisory panel of the Wildfire Task Force has done a superb job ensuring biodiversity and listed species data are available for all regions in the state, but more can be done to measure project impacts on vulnerable or threatened species and overall impacts on species over time. There is some evidence that a combination of thinning and prescribed fire significantly increases plant diversity in mixed or dry conifer forests [@dodson]. However, California is very diverse, and what works in one ecosystem may not work in others, especially in chaparral or mesic systems, where burn frequency is generally too high and thinning or prescribed fire are not applicable treatments.
+
+:::{image} /rxfire.png
+:align: center
+:width: 250px
+:::
 
 # Solutions
 Ms. Wolf did get two things right in her op-ed: prioritize thinning in the wildland urban interface and limit development in fire-prone areas. These solutions, however, fail to address the current problem of excessive biomass in forests, resulting from a century of fire suppression. 
