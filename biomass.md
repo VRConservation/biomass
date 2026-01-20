@@ -52,11 +52,13 @@ separating “biomass as energy” from “biomass as material flow management.�
 ## Economics
 Increased forest management, through the use of either hand/mechanical treatments or prescribed fire, can reduce fire suppression costs relative to recent practices by more than US$400,000 per year [@holland].
 
-{numref}`costs` shows the cost benefits of treatments [@patrick]
+{numref}`costs` shows the cost benefits of treatmentss with an estimated cost of reaching the 1 million acres treated/year goal of $3 billion with a benefit of $7.9/yr [@patrick]. A maximized net benfit $22.2 billion/yr would be reached if 3.9 million acres/yr are treated at a cost of $10.5. These numbers seem astronomical but indicate the sheer scale of the problem of truly reducing wildfire risk after a century of fire suppression. Even if the state reaches the million acre annual treatment goal, all of the biomass produced, has to go somewhere as piling, masticating, and spreading it in place will only shift wildfire risk or destroy forest understory. That somewhere can be a mix of wood utilization that maximizes carbon sequestration benefits, such as mass timber.
+
+CALFIRE economic study pg 39 bau scenarios
 
 :::{figure} /cost-bens.png
 :label: costs
-Costs/benefits of California fuel reduction at the goal of 1 million acres vs. 3.9 million acres—the rate that maximizes net benefits.
+Costs/benefits of California fuel reduction at the goal of 1 million acres vs. 3.9 million acres—the rate that maximizes net benefits [@patrick].
 :::
 
 
@@ -66,6 +68,9 @@ In addition to wildfire and climate disinformation, there are several recurring 
 
 1. **Downstream process**. Wolf mentions leaving thinned biomass in place rather than using it as biomass. However, this practice has led to suppression of important undergrowth and, in worst-case scenarios, started or exacerbated some of the largest fires in California's history. For example, it's widely acknowledged that the Dixie Fire, which burned more than 1 million acres across the Plumas National Forest, was spread by a log deck and by thinned fuel piles left in place after thinning operations.
 2. **Carbon accounting**. CBD’s argument leans heavily on short-term smokestack emissions, and while that framing is incomplete, it isrhetorically effective. I’d suggest acknowledging up front that biomass is not zero-carbon, then pivot to the real comparison: time horizons and counterfactuals. In fire-prone forests, the alternative to utilization is often pile burning or high-severity wildfire, both of which release carbon rapidly and without substitution benefits. Naming the time dimension and the counterfactual explicitly makes it harder to accuse you of hand-waving.
+
+Cite Micah Elias article [@elias] CALFIRE study pg. 68
+
 3. **Feeding the beast**. A fear among opponents of biomass utilization is that feeding plants from pristine forests to support the biomass industry with dubious climate benefits, e.g., as in North Carolina or Europe ([Frisch and Uden 2023](https://calmatters.org/commentary/2022/11/wildfire-prevention-biomass-climate-forest)). However, as the same authors argue, the situation is very different in the American West, where biomass results from wildfire mitigation treatments and 90% of forest land is owned by the public and small-scale landowners.
 4. **Biomass is an energy silver bullet**. Biomass energy will not replace renewable energy sources such as solar and wind. It is meant to be a local utilization process that is far superior to and less polluting than letting forests burn. The real issue at hand is addressing California's wildfire emergency and not biomass vs. other renewables ([Dias 2025](https://calmatters.org/commentary/reader-reactions/2025/12/hazardous-forest-waste-wildfire-california/)).
 5. **Policy-based incentives**. The Bioenergy Market Adjusting Tariff Program (BIOMAT), which the CPUC sadly decided not to renew, required utilities to buy power from small local projects that convert forest and other organic waste to energy. Creating a successor program that could get facilities across the line to function or re-idle facilities like Loyalton that aren't currently operating is critical to processing biomass from forest health projects.
