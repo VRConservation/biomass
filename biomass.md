@@ -33,12 +33,10 @@ This article examines the need for forest health treatments that produce biomass
 [^1]: Ironically, some environmentalists are using a Merchants of Doubt type of approach to their wildfire disinformation campaigns. See @oreskes for more on disinformation campaigns intended to sow doubt about science that have been used historically by the petrochemical and cigarette industries, among others.
 
 # Biomass
-Many biomass critiques rely on broader wildfire myths (e.g., “fires are mostly shrubland,” “thinning increases fire severity,” “forests should be left alone”).
-
-Biomass utilization is neither an energy silver bullet nor an unending consumer of timber and spewer of wood smoke from giant burning plants. Biomass utilization is one of many solutions to California's wildfire crisis, as the century-long suppression of fires has created unnatural conditions in most forests, making them more susceptible to disease, fire, and other threats related to climate change. 
+Many biomass critiques rely on broader wildfire myths, e.g., “fires are mostly shrubland,” “thinning increases fire severity,” “forests should be left alone”, or "thinning is an excuse for logging". Disinformation in this realm becomes a mechanism by which forest management and biomass are broadly maligned without nuance. Because of this, we get a singular argument along the lines of misunderstood fire ecology -> misdiagnosed forest conditions -> misframed biomass debate -> bad policy outcomes. This result does nothing to mitigate the wildfire problem in the West.
 
 ## THE disagreement
-The debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. CBD’s position implicitly says restraint and retreat are the answer; yours says intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
+In reality, the debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. CBD’s position implicitly says restraint and retreat are the answer; yours says intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
 
 ## Forest residuals
 Biomass utilization is a critical downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber, 2. unavoidable treatment residues, and 3. Excess forest biomass or residual streams exist whether or not there's an energy market. We also need to make it clear that sawtimber, clearcutting, or excessive forest harvesting cannot be conflated with forest health or wildfire mitigation.
@@ -51,7 +49,7 @@ Wolf suggests leaving biomass residues in the forest. Masticating on site, loppi
 [^2]: Only 19% of this material is accessible via existing road networks.
 
 ## Energy vs. material flow
-We need to separate “biomass as energy” from “biomass as material flow management". Wolf collapses everything into burning trees for electricity. We argue for something broader: managing unavoidable residues across multiple uses (materials, combined heat and power, heat, and biochar) as part of a landscape risk reduction system. 
+We need to separate “biomass as energy” from “biomass as material flow management". Wolf collapses everything into burning trees for electricity. Biomass utilization is neither of these  an energy silver bullet nor an unending consumer of timber and spewer of wood smoke from giant burning plants. Biomass utilization is one of many solutions to California's wildfire crisis, as the century-long suppression of fires has created unnatural conditions in most forests, making them more susceptible to disease, fire, and other threats related to climate change. We argue for a broader solution: managing unavoidable residues across multiple uses (materials, combined heat and power, heat, and biochar) as part of a landscape risk reduction system. 
 
 ## Economics
 Increased forest management, through the use of either hand/mechanical treatments or prescribed fire, can reduce fire suppression costs relative to recent practices by more than US$400,000 per year [@holland].
