@@ -33,6 +33,8 @@ This article examines the need for forest health treatments that produce biomass
 [^1]: Ironically, some environmentalists are using a Merchants of Doubt type of approach to their wildfire disinformation campaigns. See @oreskes for more on disinformation campaigns intended to sow doubt about science that have been used historically by the petrochemical and cigarette industries, among others.
 
 # Biomass
+Many biomass critiques rely on broader wildfire myths (e.g., “fires are mostly shrubland,” “thinning increases fire severity,” “forests should be left alone”).
+
 Biomass utilization is neither an energy silver bullet nor an unending consumer of timber and spewer of wood smoke from giant burning plants. Biomass utilization is one of many solutions to California's wildfire crisis, as the century-long suppression of fires has created unnatural conditions in most forests, making them more susceptible to disease, fire, and other threats related to climate change. 
 
 ## THE disagreement
@@ -42,9 +44,11 @@ The debate isn’t really about biomass. It’s about whether active forest mana
 Biomass utilization is a critical downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber, 2. unavoidable treatment residues, and 3. Excess forest biomass or residual streams exist whether or not there's an energy market. We also need to make it clear that sawtimber, clearcutting, or excessive forest harvesting cannot be conflated with forest health or wildfire mitigation.
 
 ## Burning & air quality
+Let's acknowledge that older biomass plants were dirty, but modern regulations, controls, and siting are helping to mitigate that issue. These and environmental justice impacts from siting facilities in disadvantaged communities can be further strengthened with strong CEQA and other environmental policies. Nevertheless poor air quality and greenhouse gas emissions from wildfires dwarf regulated point sources. The nearly million acre Dixie fire, California's second largest wildfire, emitted 37 million tonnes of CO<sub>2e</sub> or the equivalent emissions from electricity consumption of nearly 5 million households [@baldassare]. In 2020 wildfires emitted 127 million tonnoes of CO<sub>2e</sub> nearly two times higher than California's total greenhouse gas emissions reductions achieved since 2003 [@jerrett].
 
+Wolf suggests leaving biomass residues in the forest. Masticating on site, lopping and pilling, or removing residue to landings has long been practiced at thinning sites. But the accumulation of materials is overwhelming. A study showed that there are approximately 150,000 acres of piles representing 1,000,000 tones with 78% of these materials on public lands [@darlington-pile].[^2] Even disposing of those piles by burning is an episodic, unregulated process that would be much more harmful than utilization in long-term wood products or burning at a facility.
 
-The public health and air quality angle deserves a bit more attention than it currently gets. CBD gains moral leverage by focusing on localized pollution, and while I agree that wildfire smoke dwarfs regulated point sources, that comparison needs to be made explicitly. It would help to acknowledge that older biomass plants were dirty, then draw a clear distinction with modern controls and siting, and finally compare those impacts to pile burns and wildfire smoke, which are largely unregulated and episodic but massively more harmful.
+[^2]: Only 19% of this material is accessible via existing road networks.
 
 ## Energy vs. material flow
 We need to separate “biomass as energy” from “biomass as material flow management". Wolf collapses everything into burning trees for electricity. We argue for something broader: managing unavoidable residues across multiple uses (materials, combined heat and power, heat, and biochar) as part of a landscape risk reduction system. 
@@ -53,7 +57,6 @@ We need to separate “biomass as energy” from “biomass as material flow man
 Increased forest management, through the use of either hand/mechanical treatments or prescribed fire, can reduce fire suppression costs relative to recent practices by more than US$400,000 per year [@holland].
 
 {numref}`costs` shows the cost-benefit of treatments, with an estimated cost of reaching the 1 million acres treated/year goal of $3 billion and a benefit of $7.9/yr [@patrick]. A maximized net benfit $22.2 billion/yr would be reached if 3.9 million acres/yr are treated at a cost of $10.5. These numbers seem astronomical, but indicate the sheer scale of the problem of truly reducing wildfire risk after a century of fire suppression. Even if the state reaches the million acre annual treatment goal, all of the biomass produced has to go somewhere, as piling, masticating, and spreading it in place will only shift wildfire risk or destroy the forest understory. That somewhere can be a mix of wood utilization that maximizes carbon sequestration benefits, such as mass timber.
-
 
 :::{figure} /cost-bens.png
 :label: costs
