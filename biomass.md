@@ -15,7 +15,7 @@ authors:
 license: CC-BY-4.0
 keywords: biomass, forest health, climate
 abstract: |
-  Shaye Wolf's CalMatters [commentary](https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/) about biomass contains a number of half-truths, biased evidence, and cherry-picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. This counterpoint article debunks or clarifies that misinformation with cited articles and data, along with FAQs about biomass and forest health. In short, the issue is really about more than biomass and whether active forest management is ecologically legitimate under novel climate conditions.
+   CalMatters [commentary](https://calmatters.org/commentary/2025/12/biomass-california-energy-wildfire-problems/) about biomass contains a number of half-truths, biased evidence, and cherry-picked science to prove the point that biomass is a money pit that won't solve California's energy or wildfire problems. This counterpoint article debunks or clarifies that misinformation with cited articles and data, along with FAQs about biomass and forest health. In short, the issue is really about more than biomass and whether active forest management is ecologically legitimate under novel climate conditions.
 ---
 
 # Takeaways
@@ -54,7 +54,7 @@ We need to separate “biomass as energy” from “biomass as material flow man
 ## Economics
 Increased forest management, through the use of either hand/mechanical treatments or prescribed fire, can reduce fire suppression costs relative to recent practices by more than US$400,000 per year [@holland].
 
-{numref}`costs` shows the cost-benefit of treatments, with an estimated cost of reaching the 1 million acres treated/year goal of $3 billion and a benefit of $7.9/yr [@patrick]. A maximized net benfit $22.2 billion/yr would be reached if 3.9 million acres/yr are treated at a cost of $10.5. These numbers seem astronomical, but indicate the sheer scale of the problem of truly reducing wildfire risk after a century of fire suppression. Even if the state reaches the million acre annual treatment goal, all of the biomass produced has to go somewhere, as piling, masticating, and spreading it in place will only shift wildfire risk or destroy the forest understory. That somewhere can be a mix of wood utilization that maximizes carbon sequestration benefits, such as mass timber.
+{numref}`costs` shows the cost-benefit of treatments, with an estimated cost of reaching the 1 million acres treated/year goal of \$3 billion and a benefit of $7.9/yr [@patrick]. A maximized net benfit \$22.2 billion/yr would be reached if 3.9 million acres/yr are treated at a cost of \$10.5. These numbers seem astronomical, but indicate the sheer scale of the problem of truly reducing wildfire risk after a century of fire suppression. Even if the state reaches the million acre annual treatment goal, all of the biomass produced has to go somewhere, as piling, masticating, and spreading it in place will only shift wildfire risk or destroy the forest understory. That somewhere can be a mix of wood utilization that maximizes carbon sequestration benefits, such as mass timber.
 
 :::{figure} /cost-bens.png
 :label: costs
