@@ -5,5 +5,8 @@
       "path": "zsh",
       "args": ["-l"]
     }
-  }
+  },
+  "cSpell.words": [
+    "megafires"
+  ]
 }

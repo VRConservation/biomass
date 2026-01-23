@@ -3,9 +3,9 @@ version: 1
 project:
   id: f6caea8a-bf51-4bc6-a5d4-4bc470673414
   title: Forest Biomass Solutions 🌲🪵🌱
-  subtitle: Biomass utilization is needed as a fire mitigation strategy
+  subtitle: Integrating biomass utilization as a fire mitigation strategy
   subject: forests & climate
-  keywords: biomass, utilization, forest health, climate
+  keywords: forest health, climate, biomass utilization
   license:
     content: CC-BY-SA-3.0
     code: MIT
