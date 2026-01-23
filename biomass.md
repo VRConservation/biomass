@@ -1,16 +1,16 @@
 ---
-# title: Forest Biomass Solutions
-# subject: Biomass
-# short_title: Biomass & forests
-# date: 2026-01-20
-# authors:
-#   - name: Vance Russell
-#     affiliations:
-#       - 3point.xyz
-#     email: vance@3point.xyz
-#   - name: Joshua Harrison
-#     affiliations:
-#       - Center for the Study of Force Majeure, UC Santa Cruz
+title: Forest Biomass Solutions
+subject: Biomass
+short_title: Biomass & forests
+date: 2026-01-20
+authors:
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: vance@3point.xyz
+  - name: Joshua Harrison
+    affiliations:
+      - Center for the Study of Force Majeure, UC Santa Cruz
 license: CC-BY-4.0
 keywords: forest health, climate, biomass utilization
 abstract: |
