@@ -33,7 +33,7 @@ All living species interact with their environments in order to survive; humans 
 
 This article examines the need for forest health treatments that produce biomass and addresses common myths about their use in fire-adapted forests.[^1] It then situates the biomass debate within broader patterns of wildfire disinformation, explores impacts on biodiversity, and outlines integrated solutions for restoring forest resilience. 
 
-[^1]: The broad application of treatments across regions and ecosystems is inappropriate and can further degrade stressed ecosystems. What works in Northern California (thinning/prescribed fire) is not the same as what works in Southern California (ignition prevention, structural hardening, strategic fuel breaks) [@oconnell]. For example, mechanical removal of chaparral can lead to weed invasion, which subsequently increases fire risk [@keeley; @syphard]. 
+[^1]: The broad application of treatments across regions and ecosystems is inappropriate and can further degrade stressed ecosystems. What works in Northern California (thinning/prescribed fire) is not the same as what works in Southern California (ignition prevention, structural hardening, strategic fuel breaks) [@oconnell]. For example, mechanical removal of chaparral can lead to weed invasion, thereby increasing fire risk [@keeley; @syphard]. 
 
 # Biomass
 Debates over biomass are often framed narrowly, as disputes over energy technology or emissions accounting. In practice, many critiques of biomass draw on broader misunderstandings about wildfire, forest structure, and the role of human intervention in fire-adapted landscapes. Claims such as “fires are mostly a shrubland problem,” “thinning increases fire severity,” or “forests should be left alone” shape public perception long before questions of biomass utilization are considered. 
@@ -41,7 +41,7 @@ Debates over biomass are often framed narrowly, as disputes over energy technolo
 When these assumptions go unexamined, biomass becomes a proxy target for deeper anxieties about forest management. The result is a familiar pattern: misunderstood fire ecology leads to misdiagnosed forest conditions, which in turn produce a misframed biomass debate and, ultimately, policies that fail to reduce wildfire risk. This sequence does little to address the underlying drivers of large, high-severity fires in the western United States and obscures the material realities created by necessary forest restoration. 
 
 ## THE disagreement
-In reality, the debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climate conditions. CBD’s position implicitly says restraint and retreat are the answer; our position is that intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
+In reality, the debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climatic conditions. CBD’s position implicitly says restraint and retreat are the answer; our position is that intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
 
 ## Forest residuals
 Biomass utilization is a critical downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber, 2. unavoidable treatment residues, and 3. Excess forest biomass or residual streams exist whether or not there's an energy market. We also need to make it clear that sawtimber, clearcutting, or excessive forest harvesting cannot be conflated with forest health or wildfire mitigation.
@@ -75,7 +75,9 @@ At the statewide scale, cost–benefit analyses illustrate both the magnitude of
 Costs/benefits of California fuel reduction at the goal of 1 million acres vs. 3.9 million acres—the rate that maximizes net benefits [@brown].
 :::
 
-Additional studies reinforce this conclusion; estimating returns on investment of more than three dollars for every dollar spent on fuel treatments and benefit–cost ratios approaching four when avoided damages are included [@strabo; @turner]. The economic question, then, is no longer whether California can afford to treat its forests, but whether it can afford not to. 
+Additional studies reinforce this conclusion; estimating returns on investment of more than three dollars for every dollar spent on fuel treatments and benefit–cost ratios approaching four when avoided damages are included [@strabo; @turner]. The economic question, then, is no longer whether California can afford to treat its forests, but whether it can afford not to.[^clarke] 
+
+[^clarke]: When we subsidize supply, biomass is a waste product. When we subsidize demand, biomass is a value proposition. (Clarke Stevenson, personal communication, 2026)
 
 Large-scale forest treatments inevitably generate substantial volumes of woody material. From an economic standpoint, this material is not optional; it is an unavoidable byproduct of necessary restoration. If it is left in place, piled, or masticated, wildfire risk is often shifted rather than reduced, and carbon is released through decay or open burning without benefit. That biomass must go somewhere. Deliberate utilization converts an unavoidable cost into a managed material flow that supports risk reduction rather than undermining it. 
 
@@ -128,17 +130,20 @@ It is well known that indigenous burning, as part of historic fire regimes, enha
 :::
 
 # Solutions
-Moving forward, several integrated pathways can support forest health and biomass utilization:
+Returning to the mantra burn, bury, build, we recommend that all biomass utilization solutions incorporate the highest and best uses of forest product pathways ({numref}`fullcircle`). Moving forward, several integrated pathways can support forest health and biomass utilization:
 
 1. **Climate adaptation and biomass integration**. Rapid scaling of forest health treatments, including thinning and prescribed fire, is critical to maintaining forest resilience in a warming climate [@delyser]. Policies that align forest treatments, biomass utilization, climate goals, and greenhouse gas reduction can reduce wildfire risk while ensuring that utilization infrastructure supports, rather than distorts, restoration outcomes. 
 
-2. **Mobile & modular processing technologies**. Biomass infrastructure should be flexible and place-based, reflecting the temporary nature of excess fuels created by past fire suppression. Avoiding permanent, oversized facilities reduces the risk of creating demand disconnected from ecological need. Modular and mobile systems can prioritize local utilization, reduce transport emissions, and adapt over time as landscapes recover. 
+2. **Right-sized processing technologies**. Biomass infrastructure should be flexible and place-based, reflecting the temporary nature of excess fuels created by past fire suppression. Avoiding permanent, oversized facilities reduces the risk of creating demand disconnected from ecological need. Modular and mobile systems can prioritize local utilization, reduce transport emissions, and adapt over time as landscapes recover. However, scaling these systems has proven difficult due to economic, permitting, and seasonal challenges.[^swan]
 
 3. **Proactive disaster insurance and risk pricing**. Repeated large-scale wildfires threaten to make entire regions uninsurable and, eventually, uninhabitable. Aligning insurance markets with forest treatment incentives can reduce losses, stabilize premiums, and lower long-term public costs [@harrison]. Disaster response should not form the basis of a growth economy. Instead, policy and market mechanisms can reward risk reduction and penalize continued inaction. 
 
 4. **Jobs in the woods and community resilience**. Forest restoration and biomass utilization can create meaningful, long-term employment in rural and fire-prone communities that have experienced decades of economic decline and capacity loss. Investing in local stewardship workforces supports both ecological restoration and social resilience, while helping to reverse patterns of outmigration and disinvestment. 
 
-5. **Biodiversity as a guiding constraint**. Biodiversity is not an argument for or against biomass utilization, but it must remain a central constraint on how forest health treatments are designed and implemented. Ecological forestry that creates gaps, clumps, and heterogeneity supports habitat diversity, while indiscriminate thinning or the removal of all snags can undermine ecological goals. Restoration strategies must remain ecosystem-specific and adaptive, recognizing that approaches suitable for dry conifer forests may not apply in chaparral or mesic systems. 
+5. **Biodiversity as a guiding constraint**. Biodiversity is not an argument for or against biomass utilization, but it must remain a central constraint on the design and implementation of forest health treatments. Ecological forestry that creates gaps, clumps, and heterogeneity supports habitat diversity, while indiscriminate thinning or the removal of all snags can undermine ecological goals. Restoration strategies must remain ecosystem-specific and adaptive, recognizing that approaches suitable for dry conifer forests may not apply in chaparral or mesic systems. 
+
+
+[^swan]: Wider adoption and scaling of mobile and modular biomass processing technologies have been limited due to a number of challenges: Deployment economics, economies of scale, availability and suitability of processing sites, permitting and administration of multiple sites, seasonality and operational accessibility, and managing limited operating seasons such as wildfire danger and listed species constraints (Larry Swan, personal communication 2026).
 
 # Conclusion 
 Taken together, these pathways point toward a future in which California’s forests are once again shaped by frequent, beneficial fire rather than catastrophic megafires. Biomass utilization plays a supporting role in this transition, helping to manage the legacy of fire suppression while landscapes are brought back into balance. The long-term goal is not perpetual intervention, but the restoration of living systems capable of sustaining themselves through wise, adaptive stewardship. 
