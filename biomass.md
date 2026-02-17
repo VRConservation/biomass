@@ -41,7 +41,7 @@ Debates over biomass are often framed narrowly, as disputes over energy technolo
 When these assumptions go unexamined, biomass becomes a proxy target for deeper anxieties about forest management. The result is a familiar pattern: misunderstood fire ecology leads to misdiagnosed forest conditions, which in turn produce a misframed biomass debate and, ultimately, policies that fail to reduce wildfire risk. This sequence does little to address the underlying drivers of large, high-severity fires in the western United States and obscures the material realities created by necessary forest restoration. 
 
 ## THE disagreement
-In reality, the debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climatic conditions. CBD’s position implicitly says restraint and retreat are the answer; our position is that intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
+In reality, the debate isn’t really about biomass. It’s about whether active forest management is ecologically legitimate under novel climatic conditions. The Center's position implicitly says restraint and retreat are the answer; our position is that intervention, done carefully, is unavoidable. Surfacing that philosophical split would make the argument clearer and more honest.
 
 ## Forest residuals
 Biomass utilization is a critical downstream process of forest health treatments. It is not a driver of logging. In mitigating wildfire, we need to make the distinction between 1. sawtimber, 2. unavoidable treatment residues, and 3. Excess forest biomass or residual streams exist whether or not there's an energy market. We also need to make it clear that sawtimber, clearcutting, or excessive forest harvesting cannot be conflated with forest health or wildfire mitigation.
@@ -106,7 +106,13 @@ These misconceptions shape how wildfire risk is interpreted and how solutions ar
 Wildfire disinformation matters not only because it is inaccurate and undermines accepted science, but because it drives policy choices that fail to address the underlying causes of high-severity fire in a fire-adapted landscape [@cook]. 
 
 ## Fire-adapted forests & cultural fire
-A growing body of ecological research, supported by historical records and Indigenous knowledge, makes clear that most of California’s landscapes burned regularly prior to Euro-American settlement. From the coast to the Sierra Nevada and beyond, fire occurred on highly variable but frequent cycles, often on the order of five to fifteen years, depending on vegetation type, elevation, and local climate. Fire was not an anomaly in these systems; it was essential to their function. 
+A growing body of ecological research, supported by historical records and Indigenous knowledge, makes clear that most of California’s landscapes burned regularly prior to Euro-American settlement. From the coast to the Sierra Nevada and beyond, fire occurred on highly variable but frequent cycles, often on the order of five to fifteen years, depending on vegetation type, elevation, and local climate. Fire was not an anomaly in these systems; it was essential to their function ({numref}`figure`). 
+
+:::{figure} /figure.png
+:label: figure
+:height: 450px
+Conceptual figure illustrates the impacts of fire exclusion and suppression on area burned and fire severity in historically frequent-fire North American forests and woodlands represented by the majority of the fire scar sites used in the analysis by @parks.
+:::
 
 Indigenous peoples actively shaped these fire regimes through intentional burning, now commonly referred to as cultural burning. These practices did not simply mimic lightning ignitions but actively guided fire to support food systems, medicinal plants, wildlife habitat, travel corridors, and sacred landscapes. Cultural burning worked in concert with natural fire to sustain open, patchy forests, interspersed meadows, and diverse age structures, supporting high levels of biodiversity and resilience. 
 
